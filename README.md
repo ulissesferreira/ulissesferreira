@@ -1,3 +1,3 @@
 ### Hello world 👋
 
-🔭 I’m currently working on Metamask Institutional @ [ConsenSys](https://consensys.net/)  
+🔭 I’m currently working on Metamask @ [ConsenSys](https://consensys.net/)  
